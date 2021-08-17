@@ -1,3 +1,4 @@
 class teste{
-	//código
+	int teste;
+	int teste2;
 }
